@@ -1,3 +1,11 @@
+- name: Git/GitHub
+  percentage: 40
+  color: danger
+
+- name: Linux
+  percentage: 40
+  color: warning
+
 - name: tableau
   percentage: 70
   color: info
